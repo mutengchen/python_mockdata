@@ -1,0 +1,12 @@
+Flask_RESTful==0.3.8
+Flask==1.1.2
+redis==3.5.3
+numpy==1.18.5
+easydict==1.9
+opencv_python==4.3.0.36
+requests==2.18.4
+torch==1.1.0
+matplotlib==3.2.2
+tqdm==4.47.0
+Flask_Bootstrap==3.3.7.1
+Pillow==7.2.0
